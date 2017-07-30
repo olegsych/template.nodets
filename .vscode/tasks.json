@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "tasks": [
+    {
+      "taskName": "build",
+      "problemMatcher": "$tsc",
+      "isBuildCommand": true,
+      "command": "node_modules\\.bin\\tsc.cmd"
+    }
+  ]
+}
